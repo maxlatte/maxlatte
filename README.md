@@ -1,4 +1,1 @@
-- Hi, I’m @maxlatte
-- I’m currently learning HTML
-- Pronouns: He/Him
-- Fun fact: I have ADHD
+I made an autoclicker
